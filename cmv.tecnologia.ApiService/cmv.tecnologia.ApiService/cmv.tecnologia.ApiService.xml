@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cmv.tecnologia.ApiService</name>
+    </assembly>
+    <members>
+        <member name="M:cmv.tecnologia.ApiService.Controllers.LoginController.Ping">
+            <summary>
+            Endpoint para verificar la salud del Servicio
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:cmv.tecnologia.ApiService.Controllers.LoginController.Auth(System.String,System.String)">
+            <summary>
+            Endpoint para autenticarse en el servicio
+            </summary>
+            <param name="usuario"></param>
+            <param name="contrasena"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

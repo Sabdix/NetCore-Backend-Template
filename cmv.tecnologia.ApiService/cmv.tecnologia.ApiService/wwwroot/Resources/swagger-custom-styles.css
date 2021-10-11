@@ -1,0 +1,7 @@
+﻿.swagger-ui .topbar {
+  background: #4F7B2C;
+}
+
+.topbar-wrapper img[alt="Swagger UI"] {
+  content: url("logo_trans.png")
+}
